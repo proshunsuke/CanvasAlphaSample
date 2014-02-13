@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="386" selection-end="386" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="324">
+            <state line="8" column="34" selection-start="280" selection-end="280" vertical-scroll-proportion="0.14117648" vertical-offset="0" max-vertical-offset="1020">
               <folding>
                 <element signature="n#style#0;n#canvas#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#canvas#1;n#body#0;n#!!top" expanded="true" />
@@ -35,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.034782607" vertical-offset="0" max-vertical-offset="1035">
+            <state line="1" column="21" selection-start="0" selection-end="27" vertical-scroll-proportion="-0.72" vertical-offset="0" max-vertical-offset="144">
               <folding />
             </state>
           </provider>
@@ -47,7 +47,7 @@
       <file leaf-file-name="canvasAlpha.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/canvasAlpha.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1998">
+            <state line="12" column="0" selection-start="0" selection-end="2624" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1998">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -66,8 +66,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/canvasAlpha.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -223,9 +223,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="21" selection-start="0" selection-end="27" vertical-scroll-proportion="-0.72" vertical-offset="0" max-vertical-offset="144">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/canvasAlpha.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1998">
+        <state line="12" column="0" selection-start="0" selection-end="2624" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1998">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -234,18 +241,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="386" selection-end="386" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="324">
+        <state line="8" column="34" selection-start="280" selection-end="280" vertical-scroll-proportion="0.14117648" vertical-offset="0" max-vertical-offset="1020">
           <folding>
             <element signature="n#style#0;n#canvas#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#canvas#1;n#body#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.034782607" vertical-offset="0" max-vertical-offset="1035">
-          <folding />
         </state>
       </provider>
     </entry>
